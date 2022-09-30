@@ -1,4 +1,4 @@
-# Arch Linux UEFI-Bootable USB
+# GParted UEFI-Bootable USB
 
 ## Usage
 
