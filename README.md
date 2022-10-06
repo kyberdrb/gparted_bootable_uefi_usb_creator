@@ -62,4 +62,7 @@ I made this guide for gparted, but this can apply for any other UEFI bootable US
 - https://gparted.org/download.php
 - https://gparted.org/gpg-verify.php
 - http://gparted-forum.surf4.info/viewtopic.php?pid=35684#p35684
+- https://forums.linuxmint.com/viewtopic.php?p=1891954#p1891954
+- https://duckduckgo.com/?q=bash+set+unset&ia=web
+- https://towardsdev.com/what-does-set-u-mean-in-a-bash-script-52b048271741
 
